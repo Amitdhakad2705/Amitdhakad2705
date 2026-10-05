@@ -1,31 +1,93 @@
-<h1 align="center">Hi 👋, I'm Amit Dhakad</h1>
+# Hi, I'm Amit Dhakad 👋
 
-<h3 align="center">
-  Full Stack Developer | MERN Stack Developer
-</h3>
+### Full Stack Developer | MERN Stack Developer
 
-<p align="center">
-  <a href="https://github.com/Amitdhakad2705">
-    <img src="https://img.shields.io/github/followers/Amitdhakad2705?label=GitHub&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/amit-dhakad-92979b336/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amitdhakad2705&label=Profile%20Views&style=for-the-badge" />
-</p>
+I'm a passionate Computer Science Engineering student focused on building modern web applications using the MERN Stack. I enjoy learning new technologies, solving real-world problems, and building practical projects.
 
 ---
 
 ## 👨‍💻 About Me
 
-```text
-🎓 Computer Science Engineering Student
-💻 Full Stack Developer
-⚛️ MERN Stack Developer
-🚀 Building real-world web applications
-🤖 Learning AI & Machine Learning
-🧠 Improving Data Structures & Algorithms
-🌱 Always learning and improving
+- 🎓 Computer Science Engineering Student
+- 💻 Full Stack Developer focused on MERN Stack
+- 🚀 Building practical, real-world web applications
+- ⚛️ Working with React.js
+- 🟢 Working with Node.js & Express.js
+- 🍃 Working with MongoDB
+- 🌱 Continuously improving my development skills
+- 🤖 Currently learning Artificial Intelligence & Machine Learning
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+- C++
+- JavaScript
+- HTML5
+- CSS3
+
+### Frontend
+
+- React.js
+- HTML5
+- CSS3
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- npm
+
+---
+
+## 🚀 Featured Projects
+
+### 🚕 D2Cabs
+
+A full-stack cab booking web application built for online cab booking and management.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+### 🍽️ Online Food Ordering System
+
+A college cafeteria food ordering system designed for students to browse food, manage their cart, and place orders.
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, MongoDB
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+
+---
+
+## 🎯 Career Objective
+
+My goal is to become a skilled Full Stack Developer by building real-world applications, continuously improving my technical skills, and learning modern technologies.
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/Amitdhakad2705
+- 💼 LinkedIn: https://www.linkedin.com/in/amit-dhakad-92979b336/
+
+---
+
+> "Learn. Build. Improve. Repeat. 🚀"
